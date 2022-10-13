@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LATIFADEV
-- 👀 I’m interested in programming 
+- 👀 I’m interested in java programming 
 - 🌱 I’m currently learning angular nod js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :latifam.dev@gmail.com
