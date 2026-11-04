@@ -5,9 +5,7 @@
 
 <!-- ===================== TEXTE ANIMÉ ===================== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F89820&center=true&vCenter=true&width=600&lines=☕+Passionnée+de+Java;🌱+Je+construis+des+API+REST+avec+Spring+Boot;🎓+Formatrice+à+YouCode+Safi;🚀+J'apprends+et+je+partage+chaque+jour" alt="Typing SVG" />
-  </a>
+  
 </p>
 
 <p align="center">
