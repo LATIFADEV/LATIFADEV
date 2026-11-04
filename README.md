@@ -78,7 +78,7 @@ public class Moi {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0D1117&ring=F89820&fire=FF6B6B&currStreakLabel=6DB33F&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=LATIFADEV&hide_border=true&background=0D1117&ring=F89820&fire=FF6B6B&currStreakLabel=6DB33F&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ public class Moi {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Visites&color=F89820&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=LATIFADEV&label=Visites&color=F89820&style=flat-square" />
 </p>
 
 <!-- ===================== PIED DE PAGE ===================== -->
